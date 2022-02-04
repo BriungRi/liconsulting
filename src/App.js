@@ -1,23 +1,14 @@
-import logo from './logo.svg';
-import './App.css';
-
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div style={{ marginLeft: "8px", maxWidth: "800px" }}>
+      <h1>Li Consulting</h1>
+      <p>
+        Li Consulting has extensive experience building software solutions for
+        blockchain and cryptocurrencies. These solutions range from
+        zkSNARKs, DeFi (EVM and Solana), NFTs, validator operations, and smart
+        contract auditing.
+      </p>
+      <p>Contact: brian [at] liconsulting.xyz</p>
     </div>
   );
 }
