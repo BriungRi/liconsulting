@@ -5,8 +5,8 @@ function App() {
       <p>
         Li Consulting is a software consulting company with experience in
         building full-stack software solutions. These solutions include
-        zkSNARKs, DeFi (EVM and Solana), NFTs, MEV, validator operations and
-        smart contract auditing.
+        zkSNARKs, DeFi (EVM, MoveVM, Solana), NFTs, MEV, validator operations
+        and smart contract auditing.
       </p>
       <p>Inquiries: brian[at]liconsulting.xyz</p>
     </div>
